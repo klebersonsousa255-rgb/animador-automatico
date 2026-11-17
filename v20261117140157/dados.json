@@ -1,0 +1,11 @@
+{
+ "id": "v20261117140157",
+ "tema": "Luiz Inácio Lula da Silva presidente do Brasil",
+ "estilo": "suspense",
+ "titulo": "",
+ "legenda": "",
+ "falas": [],
+ "criado": "2026-11-17T14:19:35",
+ "status": "erro",
+ "erro": "historia: Não consegui falar com a IA do Google. gemini-2.5-flash: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features a"
+}
