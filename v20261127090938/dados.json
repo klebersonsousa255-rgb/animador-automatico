@@ -1,0 +1,20 @@
+{
+ "id": "v20261127090938",
+ "tema": "Como se fabrica um ferro ?",
+ "estilo": "explica3d",
+ "titulo": "Como funciona o ferro de passar roupas por dentro",
+ "legenda": "Você sabia que o ferro de passar usa física simples para controlar a temperatura sozinho? O segredo do vapor está na evaporação instantânea! Qual modelo você costuma usar aí na sua casa? 💨 #curiosidades #ciencia #tecnologia #engenhariadacuriosidade",
+ "falas": [
+  "Você sabe como esse aparelho simples consegue deixar suas roupas perfeitinhas sem queimar nada?",
+  "Tudo começa na base de alumínio, onde fica uma resistência elétrica interna em formato de U.",
+  "Quando a corrente elétrica passa pela resistência, a energia vira calor intenso em poucos segundos.",
+  "Para não queimar tudo, um termostato com lâmina bimetálica entorta e desliga a energia sozinho.",
+  "Quando o ferro esfria um pouco, a lâmina curva volta ao normal e religa o circuito.",
+  "Nos ferros a vapor, existe um reservatório de água posicionado logo acima de todo esse mecanismo.",
+  "Um pequeno gotejador libera água direto em uma câmara de vaporização que está super quente.",
+  "A água vira vapor instantaneamente e explode para fora através dos furinhos na base metálica.",
+  "É esse calor com umidade que desamassa a roupa! Você usa ferro a vapor ou prefere o seco?"
+ ],
+ "criado": "2026-11-27T09:14:51",
+ "status": "previa"
+}
